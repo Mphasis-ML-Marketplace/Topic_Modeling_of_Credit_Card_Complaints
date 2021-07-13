@@ -1,4 +1,4 @@
-# Topic_Modeling_of_Credit_Card_Complaints
+# Topic Modeling of Credit Card Complaints
 
 A Natural Language Processing (NLP) based solution to identify key topics present in credit card specific customer complaints.
 
